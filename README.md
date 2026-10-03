@@ -1,4 +1,4 @@
-<img src="./assets/github-header.png" alt="Useful software. Unusual ideas. Claudiu Micu, building in public." width="100%" />
+<img src="./github-header.png" alt="Useful software. Unusual ideas. Claudiu Micu, building in public." width="100%" />
 
 # Hi, I'm Claudiu.
 

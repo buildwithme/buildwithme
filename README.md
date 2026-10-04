@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/buildwithme/buildwithme/main/assets/github-header.png" alt="Complex ideas. Complete systems. Apps / Platforms / Services." width="100%" />
+
 # Hi, I'm Claudiu.
 
 I'm a software engineer and independent product builder in Romania with 11 years of experience.

@@ -1,8 +1,10 @@
 # Hi, I'm Claudiu.
 
-I'm a software engineer in Romania with 11 years of experience across backend systems, distributed architecture and cloud infrastructure.
+I'm a software engineer and independent product builder in Romania with 11 years of experience.
 
-I work with Go, TypeScript, PostgreSQL, AWS, GCP and Solidity. I also build independent products.
+I build complex apps, platforms and services across their full lifecycle: from understanding the problem and shaping the product to architecture, design, implementation, testing, deployment and ongoing improvement.
+
+I work across frontend, backend and infrastructure, choosing languages and tools to fit the problem.
 
 ## Projects
 

@@ -8,6 +8,24 @@ I build complex apps, platforms and services across their full lifecycle: from u
 
 I work across frontend, backend and infrastructure, choosing languages and tools to fit the problem.
 
+---
+
+## Token Mileage
+
+<div align="center">
+
+[![Tokscale profile — tokens, cost, global rank, contribution activity](https://tokscale.ai/api/embed/buildwithme/svg?graph=1&rank=total&tokens=compact&cost=compact)](https://tokscale.ai/u/buildwithme)
+
+<sub>
+
+Live from [Tokscale](https://tokscale.ai/u/buildwithme) — across Claude Code and Codex.
+
+</sub>
+
+</div>
+
+---
+
 ## Projects
 
 - **[Wakebound](https://wakebound.app)** — an alarm app with character companions and wake-up challenges. I'm continuing to refine its challenges, characters and sounds. [iPhone](https://apps.apple.com/ro/app/wakebound/id6809554207) · [Android](https://play.google.com/store/apps/details?id=com.wakebound.app)
